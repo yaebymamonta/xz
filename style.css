@@ -1,0 +1,61 @@
+.t-general {
+    width: 600px;
+    min-height: 450px;
+}
+
+.t-header {
+    background-color: yellow;
+    padding: 15px;
+    min-height: 60px;
+    box-sizing: border-box;
+}
+
+.t-main {
+    width: inherit;
+    min-height: 337px;
+    margin-top: 8px;
+}
+
+.t-nav {
+    background-color: yellow;
+    padding: 15px;
+    width: 120px;
+    float: left;
+    min-height: inherit;
+    box-sizing: border-box;
+}
+
+.t-body {
+    width: 470px;
+    margin-left: 8px;
+    float: left;
+}
+
+.t-article {
+    background-color: yellow;
+    padding: 15px;
+    width: 370px;
+    min-height: 270px;
+    margin-right: 8px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.t-ads {
+    background-color: yellow;
+    padding: 15px;
+    width: 90px;
+    min-height: 270px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.t-footer {
+    background-color: yellow;
+    padding: 15px;
+    width: 470px;
+    margin-top: 8px;
+    min-height: 60px;
+    float: left;
+    box-sizing: border-box;
+}
